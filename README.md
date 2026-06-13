@@ -9,6 +9,12 @@ This skill encodes that craft as hard rules the model must follow, plus a mandat
 **render → extract frames → visually inspect → fix → re-render** loop so Claude
 verifies its own output like an editor instead of shipping blind.
 
+## 🎥 Demo — made with this skill
+
+https://github.com/haidrrrry/claude-remotion-skill/raw/main/demo.mp4
+
+> A motion-graphics clip produced by Claude Code using this skill. [Download demo.mp4](demo.mp4)
+
 ## ✨ What it enforces
 
 | Without this skill | With this skill |
