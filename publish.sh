@@ -15,7 +15,7 @@ set -euo pipefail
 
 # ---------- CONFIG (edit these) ----------
 GITHUB_USER="haidrrrry"
-REPO_NAME="${1:-remotion-motion-graphics-skill}"
+REPO_NAME="${1:-claude-remotion-skill}"
 REPO_DESC="Claude Code agent skill for professional Remotion motion graphics — springs, staggering, color grades, grain, and a mandatory render-verify loop. No more generic AI videos."
 VISIBILITY="public"          # public | private
 DEFAULT_BRANCH="main"
