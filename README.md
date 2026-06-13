@@ -11,9 +11,9 @@
 
 ## 🎥 Demo — made with this skill
 
-https://github.com/haidrrrry/claude-remotion-skill/raw/main/demo.mp4
+[![Demo — motion graphics made with this skill](demo.gif)](https://github.com/haidrrrry/claude-remotion-skill/raw/main/demo.mp4)
 
-> A motion-graphics clip produced by Claude Code using this skill. [Download demo.mp4](demo.mp4)
+> A motion-graphics clip produced by Claude Code using this skill. ▶️ [Watch/download the full-quality MP4 (with audio)](https://github.com/haidrrrry/claude-remotion-skill/raw/main/demo.mp4)
 
 ## 🤖 What is this? (TL;DR for humans and AI assistants)
 
